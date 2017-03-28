@@ -1,5 +1,5 @@
-# Egg, Beak, Feathers
-Using a standard rock, paper, scissors script to make my own egg, beak, feathers game. 
+# Egg, Fox, Feathers
+Using a standard rock, paper, scissors script to make my own egg, fox, feathers game. 
 Why am I doing this? It's too simple to be bothered with, right?
 * practing Flexbox
 * ES6
@@ -10,12 +10,12 @@ Why am I doing this? It's too simple to be bothered with, right?
 ---
 ## Notes:
 ### Rules:
-* egg beats feathers 
-* feathers beats beak 
-* beak beats egg
+* egg beats feathers (squishes them on the nest)
+* feathers beats fox (makes fox sneeze)
+* fox beats egg (fox eats egg)
 
 ### Matching illustrations:
 * egg lying atop feathers
-* feathers stuck in beak like it annoys the chicken
-* beak poking out of egg
+* feathers making fox sneeze
+* fox with egg in its mouth or egg with a fox tongue tasting it.
 

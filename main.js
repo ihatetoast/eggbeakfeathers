@@ -26,14 +26,14 @@ btnClk.addEventListener('click', ()=>{
         farmerTedChoice = "egg";
       console.log(`Farmer Ted chose egg: ${farmerTedChoice}`);
     } else if(randoFarmerTed === 2){
-        farmerTedChoice = "beak";
-      console.log(`Farmer Ted chose beak: ${farmerTedChoice}`);
+        farmerTedChoice = "fox";
+      console.log(`Farmer Ted chose fox: ${farmerTedChoice}`);
     } else {
         farmerTedChoice = "feathers";
       console.log(`Farmer Ted chose feathers: ${farmerTedChoice}`)
     }
 });
-
+//user clicks one of three choices. dataset captured so we know what was clicked.
 userChoice.forEach(userChoice => userChoice.addEventListener('click', function(){
     console.log("userbutton clicked: "+this.dataset.choice);
 }));
@@ -52,20 +52,20 @@ userChoice.forEach(userChoice => userChoice.addEventListener('click', function()
 //             return "Egg wins.";
 //         }
 //         else {
-//             return "Beak wins.";
+//             return "Fox wins.";
 //         }
 //     }
 //     else if (choice1 === "feathers"){
-//         if (choice2 === "beak"){
+//         if (choice2 === "fox"){
 //             return "Feathers win.";
 //         }
 //         else {
 //             return "Egg wins.";
 //         }
 //     }
-//     else if (choice1 === "beak"){
+//     else if (choice1 === "fox"){
 //         if (choice2 === "egg"){
-//             return "Beak wins.";
+//             return "Fox wins.";
 //         }
 //     else {
 //         return "Feathers win.";
