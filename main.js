@@ -15,18 +15,22 @@ const userChoice = document.querySelectorAll('.userChoice');
 
 //computer's (Farmer Ted's) choice
 let farmerTedChoice;
+let randoFarmerTed
 btnClk.addEventListener('click', ()=>{
     function getRando() {
         return (Math.floor(Math.random() * 3) + 1);
     }
-    farmerTedChoice = getRando();
-    console.log(farmerTedChoice);
-    if(farmerTedChoice === 3){
-      console.log("Farmer Ted chose egg.");
-    } else if(farmerTedChoice === 2){
-      console.log("Farmer Ted chose beak.");
+    randoFarmerTed = getRando();
+    console.log(randoFarmerTed);
+    if(randoFarmerTed === 3){
+        farmerTedChoice = "egg";
+      console.log(`Farmer Ted chose egg: ${farmerTedChoice}`);
+    } else if(randoFarmerTed === 2){
+        farmerTedChoice = "beak";
+      console.log(`Farmer Ted chose beak: ${farmerTedChoice}`);
     } else {
-      console.log("Farmer Ted chose feathers.")
+        farmerTedChoice = "feathers";
+      console.log(`Farmer Ted chose feathers: ${farmerTedChoice}`)
     }
 });
 
