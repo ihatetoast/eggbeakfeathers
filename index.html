@@ -1,31 +1,62 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Egg Beak Feather</title>
+		<title>Egg Feathers Fox</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<script src="https://use.fontawesome.com/3d06df91e5.js"></script>
 	</head>
 	<body>
 		<header>
-			<h1>Egg Fox Feathers</h1>
-			<p style="font-size: 5px;">Whoo hoo. Nothing here yet. Just naked basics.</p>
+			<h1>Egg Feathers Fox</h1>
 		</header>
-		<section>
-			<div>
-				<h3>Time to play a game of Egg, Fox, Feathers</h3>
-				<p>Choose egg, fox, or feathers by clicking on its image. As soon as you do, Farmer Ted will make his choice. The winner of the round is determined by what is chosen:</p>
+		<section class="flexWrapper">
+			<div class="introFlexCont">
+				<p>Choose egg, feathers, or fox by clicking on its image. As soon as you do, Farmer Ted will make his choice. The winner of the round is determined by what is chosen:</p>
 				<ul>
-					<li><div class="liRulesIcon">egg</div> <i class="fa fa-angle-right fa-2x" aria-hidden="true"></i> <div class="liRulesIcon">feathers</div></li>
-					<li><div class="liRulesIcon">fox</div> <i class="fa fa-angle-right fa-2x" aria-hidden="true"></i> <div class="liRulesIcon">egg</div></li>
-					<li><div class="liRulesIcon">feathers</div> <i class="fa fa-angle-right fa-2x" aria-hidden="true"></i> <div class="liRulesIcon">fox</div></li>
+					<li>
+						<div class="liRulesIcons"><img src="./assets/small_egg_smile.png"></div> 
+						<i class="fa fa-angle-right fa-2x" aria-hidden="true"></i> 
+						<div class="liRulesIcon">X</div>
+					</li>
+					<li>
+						<div class="liRulesIcon">X</div> 
+						<i class="fa fa-angle-right fa-2x" aria-hidden="true"></i> 
+						<div class="liRulesIcons"><img src="./assets/small_egg_fear.png"</div></li>
+					<li>
+						<div class="liRulesIcon">X</div> 
+						<i class="fa fa-angle-right fa-2x" aria-hidden="true"></i> 
+						<div class="liRulesIcon">X</div></li>
 				</ul>
-				
+			</div>
+			<div class="choiceRowFlexCont">
+				<span class="choiceRow">Choose: </span>
+				<button class="userChoice choiceRow" data-choice="egg">Egg</button>
+				<button class="userChoice choiceRow" data-choice="fox">Fox</button>
+				<button class="userChoice choiceRow" data-choice="feathers">Feathers</button>
+			</div>
+			<div class="picdivFlexCont">
+				<div class="picDiv userPic">
+					<p>You chose ...</p>
+					<img src="./assets/placeholder_egg.jpg" alt="an egg saying it's placeholder">
+					<p>something here</p>
+					<p>something else here</p>
+				</div>
+				<div class="picDiv resultsPic">
+					<p>The results are in:</p>
+					<img src="./assets/placeholder_egg.jpg" alt="an egg saying it's placeholder">
+					<p>something here</p>
+					<p>something else here</p>
+				</div>
+				<div class="picDiv farmerTedPic">
+					<p>Farmer Ted chose ...</p>
+					<img src="./assets/placeholder_egg.jpg" alt="an egg saying it's placeholder">
+					<p>something here</p>
+					<p>something else here</p>
+				</div>
 			</div>
 			<!-- replace texts with images. may make them div -->
-			<button id="farmerTed">Farmer Ted's choice</button>
-			<button class="userChoice" data-choice="egg">Egg</button>
-			<button class="userChoice" data-choice="fox">Fox</button>
-			<button class="userChoice" data-choice="feathers">Feathers</button>
+			<button id="farmerTed">Farmer Ted's choice (for console testing only</button>
+			
 		</section>
 
 
