@@ -48,7 +48,7 @@ INTRO PARA AND RULES
 	display: flex;
 	margin: 0 auto;
 	flex-direction: column;
-	padding: 0 1em;
+	padding: 0 2em;
 }
 
 ul{
@@ -63,8 +63,8 @@ ul{
 li {
 	display: flex;
 	align-items: center;
-
 }
+
 .fa-angle-right {
 	margin: 0.25em;
 }
@@ -122,6 +122,7 @@ PICTURE ROW
 	width: 80%;
 	margin: 0 auto;
 	padding: 0 1em;
+	flex-wrap: wrap;
 }
 
 .picDiv >img {
