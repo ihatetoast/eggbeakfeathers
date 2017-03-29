@@ -90,6 +90,26 @@ MAKE A CHOICE ROW
 	width: 80%;
 	margin: 0 auto;
 	padding: 0 1em;
+	justify-content: center;
+	align-items: center;
+}
+.userChoice {
+	height:50px;
+	width: 50px;
+	border-radius: 50%;
+	border: 2px solid #3F6E59;
+	background: #D2E39C;
+	margin: 0.5em 1em;
+
+	-webkit-transition: background-color 0.5s ease-out;
+	-moz-transition: background-color 0.5s ease-out;
+	-o-transition: background-color 0.5s ease-out;
+	transition: background-color 0.5s ease-out;
+
+}
+.userChoice:hover{
+	background-color: #3F6E59;
+	cursor: pointer;
 }
 
 /*
@@ -105,5 +125,5 @@ PICTURE ROW
 }
 
 .picDiv >img {
-	width: 250px;
+	width: 200px;
 }
