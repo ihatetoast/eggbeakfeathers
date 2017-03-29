@@ -58,9 +58,12 @@ ul{
 	display: flex;
 	justify-content: space-around;
 	flex-wrap: wrap;
+	align-items: flex-start;
 }
 li {
-	display: inline;
+	display: flex;
+	align-items: center;
+
 }
 .fa-angle-right {
 	margin: 0.25em;
