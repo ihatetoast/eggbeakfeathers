@@ -14,28 +14,36 @@ const userChoice = document.querySelectorAll('.userChoice');
 
 
 //computer's (Farmer Ted's) choice
-let farmerTedChoice;
-let randoFarmerTed
-btnClk.addEventListener('click', ()=>{
-    function getRando() {
-        return (Math.floor(Math.random() * 3) + 1);
-    }
-    randoFarmerTed = getRando();
-    console.log(randoFarmerTed);
-    if(randoFarmerTed === 3){
-        farmerTedChoice = "egg";
-      console.log(`Farmer Ted chose egg: ${farmerTedChoice}`);
-    } else if(randoFarmerTed === 2){
-        farmerTedChoice = "fox";
-      console.log(`Farmer Ted chose fox: ${farmerTedChoice}`);
-    } else {
-        farmerTedChoice = "feathers";
-      console.log(`Farmer Ted chose feathers: ${farmerTedChoice}`)
-    }
-});
-//user clicks one of three choices. dataset captured so we know what was clicked.
+// let farmerTedChoice;
+// let randoFarmerTed
+// btnClk.addEventListener('click', ()=>{
+//     function getRando() {
+//         return (Math.floor(Math.random() * 3) + 1);
+//     }
+//     randoFarmerTed = getRando();
+//     console.log(randoFarmerTed);
+//     if(randoFarmerTed === 3){
+//         farmerTedChoice = "egg";
+//       console.log(`Farmer Ted chose egg: ${farmerTedChoice}`);
+//     } else if(randoFarmerTed === 2){
+//         farmerTedChoice = "fox";
+//       console.log(`Farmer Ted chose fox: ${farmerTedChoice}`);
+//     } else {
+//         farmerTedChoice = "feathers";
+//       console.log(`Farmer Ted chose feathers: ${farmerTedChoice}`)
+//     }
+// });
+
+//user clicks one of three choices.
 userChoice.forEach(userChoice => userChoice.addEventListener('click', function(){
+    // dataset captured so we know what was clicked.
     console.log("userbutton clicked: "+this.dataset.choice);
+    // at the same time we fire off Farmer Ted's choice
+
+    //user's pic becomes user's choice: egg feathers fox
+    //farmer ted's pic becomes ft's choice
+    //results becomes pick of the rules
+
 }));
 
 // egg beats feathers 

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="350px" height="499px" viewBox="0 0 350 499" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>egg scared copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="36.668276%" cy="14.6023337%" fx="36.668276%" fy="14.6023337%" r="68.1309582%" id="radialGradient-1">
+            <stop stop-color="#F1E3CC" offset="0%"></stop>
+            <stop stop-color="#E2C698" offset="38.6171632%"></stop>
+            <stop stop-color="#C4957F" offset="100%"></stop>
+        </radialGradient>
+        <ellipse id="path-2" cx="33.2440669" cy="37.107253" rx="27.703389" ry="33.289163"></ellipse>
+        <ellipse id="path-4" cx="33.2440669" cy="37.107253" rx="27.703389" ry="33.289163"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="egg-scared-copy" transform="translate(174.711073, 249.500000) scale(-1, 1) translate(-174.711073, -249.500000) translate(-0.788927, 0.000000)">
+            <path d="M174.962382,498.559879 C299.207559,498.559879 358.884377,385.791638 349.101292,258.853397 C339.318207,131.915155 271.136646,0.404432512 174.962382,0.404432512 C78.7881179,0.404432512 6.69332317,131.915155 0.823472269,258.853397 C-5.04637863,385.791638 50.7172049,498.559879 174.962382,498.559879 Z" id="small-egg-copy-8" fill="url(#radialGradient-1)"></path>
+            <path d="M303.020341,292.324169 C341.805086,281.227782 303.020341,263.362598 303.020341,263.362598 C303.020341,263.362598 328.553237,231.294037 278.687136,231.294037 C228.821036,231.294037 242.072885,281.227782 242.072885,281.227782 C242.072885,281.227782 264.235596,303.420557 303.020341,292.324169 Z" id="mouth" stroke="#D95A5A" stroke-width="4" fill="#FFFFFF" transform="translate(280.367421, 263.362598) rotate(-10.000000) translate(-280.367421, -263.362598) "></path>
+            <g id="Oval-3-Copy-3" transform="translate(181.112264, 149.801234)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" transform="translate(33.244067, 37.107253) rotate(-8.000000) translate(-33.244067, -37.107253) " xlink:href="#path-2"></use>
+                <ellipse fill="#000000" mask="url(#mask-3)" cx="43.2172869" cy="37.6620724" rx="19.3923723" ry="19.4186784"></ellipse>
+            </g>
+            <g id="Oval-3-Copy-4" transform="translate(242.059720, 127.608458)">
+                <mask id="mask-5" fill="white">
+                    <use xlink:href="#path-4"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" transform="translate(33.244067, 37.107253) rotate(-8.000000) translate(-33.244067, -37.107253) " xlink:href="#path-4"></use>
+                <ellipse fill="#000000" mask="url(#mask-5)" cx="43.2172869" cy="37.6620724" rx="19.3923723" ry="19.4186784"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

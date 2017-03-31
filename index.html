@@ -11,49 +11,49 @@
 		</header>
 		<section class="flexWrapper">
 			<div class="introFlexCont">
-				<p>Choose egg, feathers, or fox by clicking on its image. As soon as you do, Farmer Ted will make his choice. The winner of the round is determined by what is chosen: egg squishes feathers, feathers tickle fox, fox eats egg.</p>
+				<p>Choose egg, feathers, or fox by clicking on its image below. Farmer Ted will make his choice.</p>
 				<ul>
 					<li>
-						<div class="liRulesIcons"><img src="./assets/small_egg_smile.png" alt="brown egg smiling"></div> 
-						<i class="fa fa-angle-right fa-2x" aria-hidden="true"></i> 
-						<div class="liRulesIcons"><img src="./assets/egg-feathers.png" alt="three blue feathers looking scared"></div>
+						<img src="./assets/egghappy.svg" class="rulesIconsA" alt="brown egg smiling"/> 
+						<img src="./assets/beats.svg" class="greaterThan" alt="greater than sign">
+						<img src="./assets/eggonfeathers.svg" class="rulesIconsB" alt="three blue feathers looking scared"/>
 					</li>
 					<li>
-						<div class="liRulesIcons"><img src="./assets/feathers_smile.png" alt="three blue feathers smiling"></div> 
-						<i class="fa fa-angle-right fa-2x" aria-hidden="true"></i> 
-						<div class="liRulesIcons"><img src="./assets/fox_sneeze.png" alt="fox with feathers in nose about to sneeze"></div>
+						<img src="./assets/feathershappy.svg" class="rulesIconsA" alt="three blue feathers smiling"/>
+						<img src="./assets/beats.svg" class="greaterThan" alt="greater than sign"/>
+						<img src="./assets/foxfeathers.svg" class="rulesIconsB" alt="fox with feathers in nose about to sneeze"/>
 					</li>
 					<li>
-						<div class="liRulesIcons"><img src="./assets/fox_hungry.png" alt="fox licking lips"></div> 
-						<i class="fa fa-angle-right fa-2x" aria-hidden="true"></i> 
-						<div class="liRulesIcons"><img src="./assets/small_egg_fear.png" alt="brown egg looking scared"></div>
+						<img src="./assets/foxhungry.svg" class="rulesIconsB" alt="fox licking lips"/> 
+						<img src="./assets/beats.svg" class="greaterThan" alt="greater than sign"/>
+						<img src="./assets/eggscared.svg" class="rulesIconsA" alt="brown egg looking scared"/>
 					</li>
 				</ul>
 			</div>
 			<div class="choiceRowFlexCont">
 				<span class="choiceRow choiceText">Choose: </span>
-				<button class="userChoice choiceRow" data-choice="egg"><img src="./assets/eggbtn.png" width="30px"></button>
-				<button class="userChoice choiceRow" data-choice="feathers"><img src="./assets/feathersbtn.png" width="30px"></button>
-				<button class="userChoice choiceRow" data-choice="fox"><img src="./assets/foxbtn.png" width="30px"></button>
+				<button class="choiceRow userChoice" data-choice="egg"><img src="./assets/eggfacefwd.svg" class="userChoice__img" ></button>
+				<button class="choiceRow userChoice" data-choice="feathers"><img src="./assets/feathersbtn.svg" class="userChoice__img" ></button>
+				<button class="choiceRow userChoice" data-choice="fox"><img src="./assets/foxfacefwd.svg" class="userChoice__img" ></button>
 			</div>
 			<div class="picdivFlexCont">
 				<div class="picDiv userPic">
 					<p>You chose ...</p>
-					<img src="./assets/user.png" alt="silhouette of person">
-					<p>something here</p>
-					<p>something else here</p>
+					<img src="./assets/user.svg" alt="silhouette of person">
+					<p class="userWLT results">something here</p>
+					<p class="userComments comments">something else here</p>
 				</div>
 				<div class="picDiv resultsPic">
 					<p>The results are in:</p>
-					<img src="./assets/results.png" alt="big question mark">
-					<p>something here</p>
-					<p>something else here</p>
+					<img src="./assets/results.svg" alt="big question mark">
+					<p class="resultsRules results">something here</p>
+					<!-- <p class="rulesComments comments">something else here</p> -->
 				</div>
 				<div class="picDiv farmerTedPic">
 					<p>Farmer Ted chose ...</p>
-					<img src="./assets/farmerted.png" alt="silhouette of a farmer">
-					<p>something here</p>
-					<p>something else here</p>
+					<img src="./assets/farmerted.svg" alt="silhouette of a farmer">
+					<p class="farmerTedWLT results">something here</p>
+					<p class="farmerTedComments comments">something else here</p>
 				</div>
 			</div>
 		</section>

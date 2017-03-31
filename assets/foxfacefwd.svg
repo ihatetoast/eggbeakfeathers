@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="308px" height="381px" viewBox="0 0 308 381" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>fox face forward</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="8.87789824%" x2="6.35516827%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F4ECEC" offset="0%"></stop>
+            <stop stop-color="#F0B0B0" offset="23.9309211%"></stop>
+            <stop stop-color="#EA5353" offset="46.0603413%"></stop>
+            <stop stop-color="#2C0201" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.54605015%" y1="71.9319999%" x2="90.4882812%" y2="72.1241713%" id="linearGradient-2">
+            <stop stop-color="#971817" offset="0%"></stop>
+            <stop stop-color="#EB7D6F" offset="21.8206914%"></stop>
+            <stop stop-color="#E3A49C" offset="51.7674517%"></stop>
+            <stop stop-color="#D86A5C" offset="73.3860343%"></stop>
+            <stop stop-color="#971817" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="92.256012%" id="radialGradient-3">
+            <stop stop-color="#E3A49C" offset="0%"></stop>
+            <stop stop-color="#BC4E4D" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#E3A49C" offset="0%"></stop>
+            <stop stop-color="#BC434D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#F4E1DF" offset="0%"></stop>
+            <stop stop-color="#E3A49C" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-6" cx="20" cy="20" r="20"></circle>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="86.1492138%" id="radialGradient-8">
+            <stop stop-color="#292222" offset="0%"></stop>
+            <stop stop-color="#E1690E" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-9" cx="20" cy="20" r="20"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fox-face-forward" transform="translate(-17.000000, -23.000000)">
+            <g id="body" transform="translate(34.000000, 73.000000)">
+                <path d="M150.800853,312.257072 L155.661241,297.298336 C161.803841,278.393356 164.457862,247.116452 161.589277,227.440201 L163.776042,242.439703 C160.907406,222.7631 164.57639,193.276768 164.57639,193.276768 L158.581917,206.812062 C161.892573,199.336726 163.171547,177.219339 161.438428,157.409702 L157.61089,113.660739 C155.877841,93.8519054 166.608759,67.1719443 181.562326,54.0840285 L236.124048,6.32958856 L241.138811,36.1411142 C244.436614,55.7457435 249.83184,87.5223319 253.191761,107.129984 L256.628584,127.18641 C259.987441,146.787851 270.700412,176.675881 280.55912,193.947478 L287.27488,205.712903 C297.132493,222.982582 300.029826,252.263948 293.737824,271.139953 L288.063172,288.163911 C281.774944,307.028595 260.601168,323.562087 240.775518,325.09209 L235.891893,325.468974 C216.063871,326.999161 184.662297,323.259323 165.759589,317.11746 L150.800853,312.257072 Z" id="tail" fill="url(#linearGradient-1)" transform="translate(223.932668, 166.070564) rotate(5.000000) translate(-223.932668, -166.070564) "></path>
+                <path d="M110,128 C110,128 146.412812,195.254404 166,227.851111 C168.479915,231.978148 171.649551,239.892536 176,243 C178.923262,245.088044 184.166491,237.559743 189.405809,236.796538 C196.712484,235.732185 204.011552,241.210977 205,245.692062 C206.978321,254.660698 208.259504,264.996277 205.14865,275.402159 C201.757911,286.744267 193.713382,298.169898 190,308 C182.879754,326.848785 190,327.702222 190,327.702222 L30,327.702222 C30,327.702222 34.9179694,319.415426 30,308 C25.0820306,296.584574 6.60534244,270.989665 10,254 C12.4912096,241.531933 22.7266682,235.7603 30,235 C37.2733318,234.2397 50.4024569,245.484189 53,239 C66.4273908,205.481503 110,128 110,128 Z" fill="url(#linearGradient-2)"></path>
+                <g id="leg-left" transform="translate(70.000000, 269.000000)">
+                    <path d="M5.5,0.5 L8.5,48.5" id="Line" stroke="#8F0606" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M20.5,4.5 L23.5,52.5" id="Line-Copy-3" stroke="#8F0606" stroke-width="2" stroke-linecap="square" transform="translate(22.000000, 28.500000) scale(-1, 1) translate(-22.000000, -28.500000) "></path>
+                    <path d="M24,62 C24,53.163444 18.627417,46 12,46 C5.372583,46 0,53.163444 0,62" id="paw" fill="#000000"></path>
+                </g>
+                <g id="leg-right" transform="translate(125.000000, 267.000000)">
+                    <path d="M0.5,4.5 L3.5,52.5" id="Line-Copy-4" stroke="#8F0606" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M15.5,0.5 L18.5,48.5" id="Line-Copy-5" stroke="#8F0606" stroke-width="2" stroke-linecap="square" transform="translate(17.000000, 24.500000) scale(-1, 1) translate(-17.000000, -24.500000) "></path>
+                    <path d="M25,64 C25,54.6111593 19.627417,47 13,47 C6.372583,47 1,54.6111593 1,64" id="paw" fill="#000000"></path>
+                </g>
+                <g id="backleg" transform="translate(0.000000, 236.000000)">
+                    <path d="M30.5,71.5 C30.5,71.5 6.10584511,34.4242084 10,22 C11.6342239,16.7860475 13.762478,3.7935842 22,1 C30.237522,-1.7935842 50,6 50,6 L58,18" id="Line" stroke="#9B0707" stroke-width="3" stroke-linecap="square"></path>
+                    <path d="M60,92 C60,80.954305 46.5685425,72 30,72 C13.4314575,72 0,80.954305 0,92" id="backfoot" fill="#000000"></path>
+                </g>
+                <g id="backleg-copy" transform="translate(190.000000, 282.500000) scale(-1, 1) translate(-190.000000, -282.500000) translate(160.000000, 237.000000)">
+                    <path d="M14.5,17.5 C14.5,17.5 14.5,14.5 21,9 C21.4417905,8.6261773 28.170047,-2.25625074e-13 35,-2.27373675e-13 C41,-2.27373675e-13 42.2810871,3.21702211 46,7 C49.7189129,10.7829779 49.9861521,17.2344688 50,20.5 C50.0137709,23.7473582 50.1367327,27.5297215 48,36.4971505 C45.8632673,45.4645794 31.7263633,72 31.7263633,72" id="Line" stroke="#9B0707" stroke-width="3" stroke-linecap="square" transform="translate(32.252859, 36.000000) scale(-1, 1) translate(-32.252859, -36.000000) "></path>
+                    <path d="M60,91 C60,79.954305 46.5685425,71 30,71 C13.4314575,71 0,79.954305 0,91" id="backfoot" fill="#000000"></path>
+                </g>
+            </g>
+            <g id="head" transform="translate(146.871126, 149.716385) rotate(-6.000000) translate(-146.871126, -149.716385) translate(13.871126, 13.216385)">
+                <path d="M3.58655248,189.783897 C19.6839235,167.075481 82.9291184,148.406228 128.564768,148.409114 C162.451697,148.411258 185.391397,146.291201 206.604821,148.414051 C227.818246,150.536901 255.648035,163.293245 261.503616,166.583635 C263.262544,167.572019 264.550073,169.24522 265.429326,171.43785 C250.868713,176.640985 235.450734,183.435939 219.882396,191.713771 C175.636121,215.239933 141.998971,244.457084 130.120172,267.308156 C114.065247,250.608356 91.2579819,232.974408 64.2752928,217.395945 C43.2471222,205.255326 22.4057759,195.935055 3.58655248,189.783897 Z" id="Combined-Shape" fill="#F4E2DF"></path>
+                <path d="M132.421178,263.511217 C129.553281,263.502397 126.706543,263.433943 123.883618,263.30762 C114.418991,249.811208 103.20213,236.251779 90.423151,223.107544 C86.3377121,218.905333 82.0926122,214.745558 77.6940634,210.643845 C52.5722221,187.217349 25.9101776,168.916281 0.692769844,156.692114 C12.6623283,115.28189 67.3733614,84 133.057091,84 C189.36842,84 237.61503,106.991587 257.779206,139.645771 C222.681118,152.903638 181.648675,188.198281 148.513277,237.323529 C142.650745,246.015089 137.282231,254.773669 132.421178,263.511217 Z" id="foxhead-top_left" fill="url(#radialGradient-3)"></path>
+                <ellipse id="nose" fill="#000000" transform="translate(128.981707, 255.929986) scale(-1, 1) rotate(7.000000) translate(-128.981707, -255.929986) " cx="128.981707" cy="255.929986" rx="10" ry="13.5"></ellipse>
+                <g id="ears" transform="translate(110.689304, 58.508540) rotate(-356.000000) translate(-110.689304, -58.508540) translate(27.189304, 6.008540)">
+                    <g id="rightear" transform="translate(42.785748, 57.069486) rotate(-20.000000) translate(-42.785748, -57.069486) translate(12.785748, 17.069486)">
+                        <polygon id="outterear" fill="url(#linearGradient-4)" points="30 7.10542736e-15 48.1566781 40.4178082 60 80 -2.84217094e-14 80 12.2834974 39.2440068"></polygon>
+                        <polygon id="innerear" fill="url(#linearGradient-5)" points="30 23 40.9313376 44.7725478 56 80 5 80 18.9538339 45.9052588"></polygon>
+                    </g>
+                    <g id="leftear" transform="translate(132.651158, 43.357926) rotate(5.000000) translate(-132.651158, -43.357926) translate(102.651158, 3.357926)">
+                        <polygon id="outterear" fill="url(#linearGradient-4)" points="30 7.10542736e-15 48.1566781 40.4178082 60 80 0 80 12.2834974 39.2440068"></polygon>
+                        <polygon id="innerear" fill="url(#linearGradient-5)" points="30 23 40.9313376 44.7725478 56 80 5 80 18.9538339 45.9052588"></polygon>
+                    </g>
+                </g>
+                <g id="eye-left-copy" transform="translate(86.460522, 130.888173)">
+                    <mask id="mask-7" fill="white">
+                        <use xlink:href="#path-6"></use>
+                    </mask>
+                    <use id="Mask" fill="#F3EFCE" xlink:href="#path-6"></use>
+                    <circle id="pupil" stroke="#979797" fill="url(#radialGradient-8)" mask="url(#mask-7)" cx="19.6052584" cy="21.4509825" r="10"></circle>
+                </g>
+                <g id="eye-left" transform="translate(131.055713, 127.531250)">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <use id="Mask" fill="#F3EFCE" xlink:href="#path-9"></use>
+                    <circle id="pupil" stroke="#979797" fill="url(#radialGradient-8)" mask="url(#mask-10)" cx="19.6052584" cy="21.4509825" r="10"></circle>
+                </g>
+                <g id="whiskers" transform="translate(127.403718, 238.742855) rotate(-11.000000) translate(-127.403718, -238.742855) translate(46.903718, 220.242855)" stroke="#0B0B0B">
+                    <path d="M64,21 L2,37" id="Path-2"></path>
+                    <path d="M63,13 L0.5,0.5" id="Path-2-Copy"></path>
+                    <path d="M61,18 L1,26" id="Path-2-Copy-2"></path>
+                    <path d="M161,5 L101,13" id="Path-2-Copy-3"></path>
+                    <path d="M150.5,30.5 L90,19" id="Path-2-Copy-5"></path>
+                    <path d="M159.5,22.5 L101,13" id="Path-2-Copy-4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

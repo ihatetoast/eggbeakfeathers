@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="498px" height="500px" viewBox="0 0 498 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>farmerted copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="497.512438" height="499.71382"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="497.512438" height="499.71382" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="farmerted-copy">
+            <use id="Rectangle-Copy" stroke="#000000" mask="url(#mask-2)" stroke-width="4" fill="#F4E1DF" xlink:href="#path-1"></use>
+            <polygon id="Polygon-2-Copy" stroke="#979797" fill="#D8D8D8" transform="translate(248.746539, 322.140866) scale(1, -1) translate(-248.746539, -322.140866) " points="248.746539 206.467662 302.229126 294.834127 302.229126 437.81407 195.263952 437.81407 195.263952 294.834127"></polygon>
+            <path d="M196.307692,302 C173.746643,308.13072 95.3461538,328.442308 64.0961538,340.461538 C32.8461538,352.480769 2,496 2,496 L496,496 C496,496 472.75,357.288462 431.884615,330.846154 C376.596154,316.423077 302.076923,304.403846 302.076923,304.403846 C302.076923,304.403846 297.269231,390.942308 249.192308,390.942308 C201.115385,390.942308 198.711538,304.403846 196.307692,302 Z" id="Path-2" stroke="#979797" fill="#45C1E7"></path>
+            <ellipse id="Oval-Copy" stroke="#979797" fill="#D8D8D8" cx="248.756219" cy="175.373134" rx="92.039801" ry="130.597015"></ellipse>
+            <text id="?-copy-2" font-family="Klee-Demibold, Klee" font-size="144" font-weight="500" letter-spacing="10.2399988" fill="#000000">
+                <tspan x="201.162588" y="233">?</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

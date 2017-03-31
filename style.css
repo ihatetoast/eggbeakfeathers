@@ -12,6 +12,9 @@ html {
 	background-color: #e3da9c;
 }
 
+/*RETURN TO SKETCH TO HAVE ALL PICS SAME SIZE FOR LARGEST POSSIBLE USE
+SCALE DOWN IN CSS--LATER, AFTER JS*/
+
 /*
 USE FLEXBOX!
 and own Sketch images
@@ -65,21 +68,17 @@ li {
 	align-items: center;
 }
 
-.fa-angle-right {
-	margin: 0.25em;
+.greaterThan {
+	margin: 0 0.7em 0 1em;
 }
-.liRulesIcon {
-	width: 4em;
-	height: 4em;
-	border-radius: 50%;
-	border: 1px solid black;
-	display: inline-block;
-	line-height: 4em;
-    text-align: center;
+
+
+.rulesIconsA{
+	width: 2.5em;
 }
-.liRulesIcons {
-	display: inline-block;
-    text-align: center;
+
+.rulesIconsB{
+	width: 5em;
 }
 /*
 MAKE A CHOICE ROW
@@ -105,16 +104,32 @@ MAKE A CHOICE ROW
 	-moz-transition: background-color 0.5s ease-out;
 	-o-transition: background-color 0.5s ease-out;
 	transition: background-color 0.5s ease-out;
-
 }
 .userChoice:hover{
 	background-color: #3F6E59;
 	cursor: pointer;
 }
+.userChoice__img {
+	width: 30px;
+}
 
 /*
 PICTURE ROW
 */
+/*comments/text above and below pic*/
+.picDiv{
+	font-size: 1.5em;
+}
+.picDiv p {
+	margin: 0.1em 0;
+}
+.results {
+	font-size: 0.5em;
+}
+.comments {
+	font-size: 0.5em;
+}
+/*pics*/
 .picdivFlexCont{
 	display: flex;
 	justify-content: space-around;
@@ -128,3 +143,9 @@ PICTURE ROW
 .picDiv >img {
 	width: 200px;
 }
+
+
+/*media query: make the rules x > y section column once too small for a row
+also line up results
+DO AFTER YOU'VE ADDED THE FCN. 
+*/
