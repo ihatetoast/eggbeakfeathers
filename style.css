@@ -120,30 +120,37 @@ PICTURE ROW
 .picDiv{
 	font-size: 1.5em;
 }
-.picDiv p {
+.picDiv  {
+	display: flex;
+	flex-direction: column;
 	margin: 0.1em 0;
 }
 .results {
 	font-size: 0.5em;
 }
-.comments {
-	font-size: 0.5em;
-}
+
 /*pics*/
 .picdivFlexCont{
 	display: flex;
 	justify-content: space-around;
 	background-color: #F9F5ED;
 	width: 80%;
+	height: 15em;
 	margin: 0 auto;
 	padding: 0 1em;
 	flex-wrap: wrap;
 }
 
-.picDiv >img {
+
+.defaultImg{
+	visibility: visible;
+}
+.imgHolder{
+	display:inline-block;
+}
+.imgHolder img {
 	width: 200px;
 }
-
 
 /*media query: make the rules x > y section column once too small for a row
 also line up results

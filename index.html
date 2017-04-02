@@ -16,7 +16,7 @@
 					<li>
 						<img src="./assets/egghappy.svg" class="rulesIconsA" alt="brown egg smiling"/> 
 						<img src="./assets/beats.svg" class="greaterThan" alt="greater than sign">
-						<img src="./assets/eggonfeathers.svg" class="rulesIconsB" alt="three blue feathers looking scared"/>
+						<img src="./assets/eggonfeathers.svg" class="rulesIconsB" alt="egg happily lying on feathers"/>
 					</li>
 					<li>
 						<img src="./assets/feathershappy.svg" class="rulesIconsA" alt="three blue feathers smiling"/>
@@ -33,27 +33,23 @@
 			<div class="choiceRowFlexCont">
 				<span class="choiceRow choiceText">Choose: </span>
 				<button class="choiceRow userChoice" data-choice="egg"><img src="./assets/eggfacefwd.svg" class="userChoice__img" ></button>
-				<button class="choiceRow userChoice" data-choice="feathers"><img src="./assets/feathersbtn.svg" class="userChoice__img" ></button>
+				<button class="choiceRow userChoice" data-choice="feathers"><img src="./assets/feathersfacefwd.svg" class="userChoice__img" ></button>
 				<button class="choiceRow userChoice" data-choice="fox"><img src="./assets/foxfacefwd.svg" class="userChoice__img" ></button>
 			</div>
 			<div class="picdivFlexCont">
 				<div class="picDiv userPic">
-					<p>You chose ...</p>
-					<img src="./assets/user.svg" alt="silhouette of person">
-					<p class="userWLT results">something here</p>
-					<p class="userComments comments">something else here</p>
-				</div>
-				<div class="picDiv resultsPic">
-					<p>The results are in:</p>
-					<img src="./assets/results.svg" alt="big question mark">
-					<p class="resultsRules results">something here</p>
-					<!-- <p class="rulesComments comments">something else here</p> -->
+					<span id="userText">You ...</span>
+					<div class="imgHolder" id="userPic"><img src="./assets/user.svg" class="defaultImg" alt="silhouette of person"/></div>
+					
 				</div>
 				<div class="picDiv farmerTedPic">
-					<p>Farmer Ted chose ...</p>
-					<img src="./assets/farmerted.svg" alt="silhouette of a farmer">
-					<p class="farmerTedWLT results">something here</p>
-					<p class="farmerTedComments comments">something else here</p>
+					<span id="farmerTedText">Farmer Ted ...</span>
+					<div class="imgHolder" id="farmerTedPic"><img src="./assets/farmerted.svg" class="defaultImg" alt="silhouette of a farmer"></div>
+				</div>
+				<div class="picDiv resultsPic">
+					<span id="resultsText">The winner is ...</span>
+					<div class="imgHolder" id="resultsPic"><img src="./assets/results.svg" class="defaultImg" alt="big question mark"></div>
+
 				</div>
 			</div>
 		</section>

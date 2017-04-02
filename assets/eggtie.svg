@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>eggtie</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="-3.25937035e-14" y="0" width="500" height="500"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="500" height="500" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <radialGradient cx="36.668276%" cy="14.6023337%" fx="36.668276%" fy="14.6023337%" r="68.1309582%" id="radialGradient-3">
+            <stop stop-color="#F1E3CC" offset="0%"></stop>
+            <stop stop-color="#E2C698" offset="38.6171632%"></stop>
+            <stop stop-color="#C4957F" offset="100%"></stop>
+        </radialGradient>
+        <ellipse id="path-4" cx="22.3645833" cy="25.0333817" rx="18.6371528" ry="22.3628447"></ellipse>
+        <ellipse id="path-6" cx="22.3645833" cy="25.0333817" rx="18.6371528" ry="22.3628447"></ellipse>
+        <path d="M26.3281396,23.1291741 C36.6211548,23.1291741 40.9131511,37.5294625 40.9131511,25.1788044 C40.9131511,12.8281463 32.5690135,2.81595971 22.2759983,2.81595971 C11.982983,2.81595971 2.26394678,21.3071631 2.26394678,33.6578212 C2.26394678,46.0084793 16.0351243,23.1291741 26.3281396,23.1291741 Z" id="path-8"></path>
+        <path d="M26.0434033,23.0569737 C36.3364185,23.0569737 41.3714313,33.4739713 41.3714313,21.1233132 C41.3714313,8.7726551 32.2842772,2.74375933 21.991262,2.74375933 C11.6982467,2.74375933 2.49796854,17.5440943 2.49796854,29.8947523 C2.49796854,42.2454104 15.750388,23.0569737 26.0434033,23.0569737 Z" id="path-10"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="eggtie">
+            <use id="Rectangle-Copy-3" stroke="#000000" mask="url(#mask-2)" stroke-width="4" fill="#F4E1DF" xlink:href="#path-1"></use>
+            <g id="eggs" transform="translate(17.000000, 73.000000)">
+                <g id="egg-happy">
+                    <path d="M117.812387,335.025958 C201.396975,335.025958 241.543903,259.271015 234.962439,173.997012 C228.380975,88.7230094 182.512574,0.377325465 117.812387,0.377325465 C53.1121998,0.377325465 4.61121305,88.7230094 0.662334894,173.997012 C-3.28654327,259.271015 34.2277992,335.025958 117.812387,335.025958 Z" id="small-egg-copy" fill="url(#radialGradient-3)"></path>
+                    <path d="M184.813472,194.581397 C210.905486,187.127116 211.407986,140.574746 211.407986,140.574746 C211.407986,140.574746 205.81684,174.119013 172.269965,174.119013 C138.72309,174.119013 133.131944,166.664731 133.131944,166.664731 C133.131944,166.664731 158.721458,202.035679 184.813472,194.581397 Z" id="Oval-2" stroke="#D95A5A" stroke-width="4" fill="#FFFFFF"></path>
+                    <g id="Oval-3" transform="translate(121.949653, 100.632801)">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" transform="translate(22.364583, 25.033382) rotate(-8.000000) translate(-22.364583, -25.033382) " xlink:href="#path-4"></use>
+                        <ellipse fill="#000000" mask="url(#mask-5)" cx="27.9557292" cy="30.6240929" rx="13.0460069" ry="13.0449927"></ellipse>
+                    </g>
+                    <g id="Oval-3-Copy" transform="translate(162.951389, 85.724238)">
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" transform="translate(22.364583, 25.033382) rotate(-8.000000) translate(-22.364583, -25.033382) " xlink:href="#path-6"></use>
+                        <ellipse fill="#000000" mask="url(#mask-7)" cx="27.9557292" cy="30.6240929" rx="13.0460069" ry="13.0449927"></ellipse>
+                    </g>
+                </g>
+                <g id="egg-happy-on-feathers" transform="translate(357.000000, 168.000000) scale(-1, 1) translate(-357.000000, -168.000000) translate(239.000000, 0.000000)">
+                    <path d="M117.812387,335.025958 C201.396975,335.025958 241.543903,259.271015 234.962439,173.997012 C228.380975,88.7230094 182.512574,0.377325465 117.812387,0.377325465 C53.1121998,0.377325465 4.61121305,88.7230094 0.662334894,173.997012 C-3.28654327,259.271015 34.2277992,335.025958 117.812387,335.025958 Z" id="small-egg-copy-3" fill="url(#radialGradient-3)"></path>
+                    <g id="Oval-3" transform="translate(121.333333, 100.632801)">
+                        <mask id="mask-9" fill="white">
+                            <use xlink:href="#path-8"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" transform="translate(21.588549, 20.066183) rotate(-8.000000) translate(-21.588549, -20.066183) " xlink:href="#path-8"></use>
+                        <ellipse fill="#000000" mask="url(#mask-9)" cx="24.8446181" cy="26.8969521" rx="13.0460069" ry="13.0449927"></ellipse>
+                    </g>
+                    <g id="Oval-3-Copy" transform="translate(162.390625, 85.724238)">
+                        <mask id="mask-11" fill="white">
+                            <use xlink:href="#path-10"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" transform="translate(21.934700, 18.391491) rotate(-8.000000) translate(-21.934700, -18.391491) " xlink:href="#path-10"></use>
+                        <ellipse fill="#000000" mask="url(#mask-11)" cx="24.7890625" cy="26.8969521" rx="13.0460069" ry="13.0449927"></ellipse>
+                    </g>
+                    <g id="smile" transform="translate(129.404514, 116.597968)" stroke="#D95A5A">
+                        <path d="M54.0477431,57.521045 C71.545869,57.521045 85.7309028,31.4310595 85.7309028,31.4310595 C85.7309028,31.4310595 71.545869,45.3455027 54.0477431,45.3455027 C36.5496171,45.3455027 22.3645833,31.4310595 22.3645833,31.4310595 C22.3645833,31.4310595 36.5496171,57.521045 54.0477431,57.521045 Z" id="Oval" stroke-width="4" fill="#FFFFFF" transform="translate(54.047743, 44.476052) rotate(-24.000000) translate(-54.047743, -44.476052) "></path>
+                        <path d="M85.742111,-2.11320755 C81.6249048,-2.11320755 78.2872498,1.78042058 78.2872498,6.58345428 C78.2872498,11.386488 81.6249048,15.2801161 85.742111,15.2801161 L85.742111,15.2801161" id="Oval-4" stroke-width="3.5" transform="translate(82.014680, 6.583454) rotate(-70.000000) translate(-82.014680, -6.583454) "></path>
+                        <path d="M11.1822917,27.7039187 C7.06508556,27.7039187 3.72743056,31.5975468 3.72743056,36.4005806 C3.72743056,41.2036143 7.06508556,45.0972424 11.1822917,45.0972424 L11.1822917,45.0972424" id="Oval-4-Copy" stroke-width="3.5" transform="translate(7.454861, 36.400581) scale(-1, 1) rotate(-23.000000) translate(-7.454861, -36.400581) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="feathers" transform="translate(500.251146, 759.124437) rotate(-48.000000) translate(-500.251146, -759.124437) translate(146.751146, 405.624437)">
+            <g id="feathers-cluster" transform="translate(88.000000, 41.000000)"></g>
+        </g>
+    </g>
+</svg>

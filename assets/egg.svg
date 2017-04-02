@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>egg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="-3.25937035e-14" y="0" width="500" height="500"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="500" height="500" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <radialGradient cx="36.668276%" cy="14.6023337%" fx="36.668276%" fy="14.6023337%" r="68.1309582%" id="radialGradient-3">
+            <stop stop-color="#F1E3CC" offset="0%"></stop>
+            <stop stop-color="#E2C698" offset="38.6171632%"></stop>
+            <stop stop-color="#C4957F" offset="100%"></stop>
+        </radialGradient>
+        <ellipse id="path-4" cx="33.1730769" cy="38.4615385" rx="27.6442308" ry="32.967033"></ellipse>
+        <ellipse id="path-6" cx="33.1730769" cy="38.4615385" rx="27.6442308" ry="32.967033"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="egg">
+            <use id="Rectangle-Copy-3" stroke="#000000" mask="url(#mask-2)" stroke-width="4" fill="#F4E1DF" xlink:href="#path-1"></use>
+            <g transform="translate(88.000000, 4.000000)">
+                <path d="M174.184696,493.334933 C298.164558,493.334933 357.71394,381.65792 347.951746,255.948025 C338.189552,130.23813 270.153588,0 174.184696,0 C78.2158034,0 6.27496109,130.23813 0.417644767,255.948025 C-5.43967155,381.65792 50.2048335,493.334933 174.184696,493.334933 Z" id="small-egg-copy-9" fill="url(#radialGradient-3)"></path>
+                <g id="face" transform="translate(78.000000, 165.000000)">
+                    <path d="M112.186085,163.602108 C179.152229,141.843489 156.572125,74.2932878 156.572125,74.2932878 C156.572125,74.2932878 149.253931,107.259137 98.5192407,123.743837 C47.7845499,140.228538 11.2030786,122.263041 11.2030786,122.263041 C11.2030786,122.263041 45.2199411,185.360727 112.186085,163.602108 Z" id="Oval-2" stroke="#D95A5A" stroke-width="3" fill="#FFFFFF" transform="translate(85.719041, 121.229974) rotate(18.000000) translate(-85.719041, -121.229974) "></path>
+                    <g id="eye2" transform="translate(27.384615, 0.538462)">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" transform="translate(33.173077, 38.461538) rotate(-8.000000) translate(-33.173077, -38.461538) " xlink:href="#path-4"></use>
+                        <ellipse id="Oval-3" fill="#000000" mask="url(#mask-5)" cx="33.7740385" cy="39.010989" rx="19.3509615" ry="19.2307692"></ellipse>
+                    </g>
+                    <g id="eye1" transform="translate(96.615385, 0.538462)">
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" transform="translate(33.173077, 38.461538) rotate(-8.000000) translate(-33.173077, -38.461538) " xlink:href="#path-6"></use>
+                        <ellipse id="Oval-3-Copy" fill="#000000" mask="url(#mask-7)" cx="33.7740385" cy="39.010989" rx="19.3509615" ry="19.2307692"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
