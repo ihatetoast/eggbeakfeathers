@@ -83,15 +83,18 @@ li {
 /*
 MAKE A CHOICE ROW
 */
+
 .choiceRowFlexCont {
 	display: flex;
 	background-color: #F9F5ED;
 	width: 80%;
+	height: 4.125em;
 	margin: 0 auto;
 	padding: 0 1em;
 	justify-content: center;
 	align-items: center;
 }
+
 .userChoice {
 	height:50px;
 	width: 50px;

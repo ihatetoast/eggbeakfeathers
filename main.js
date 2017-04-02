@@ -7,6 +7,7 @@ variables
 */
 
 //general
+const choiceText = document.querySelector('.choiceText');
 const defaultImg = document.querySelectorAll('.defaultImg');
 const button = document.querySelectorAll('button');
 //text
@@ -106,9 +107,12 @@ let compare = (you, farmer) => {
 };
 
 function gameRunning() {
-    button.forEach(button => button.disabled = true);
+    button.forEach(button => {button.disabled = true});
+    choiceText.style.visibility = "hidden";
+
 }
 function gameReset() {
+    choiceText.style.visibility = "visible";
     userPic.innerHTML = userDefaultPic;
     farmerTedPic.innerHTML = farmerTedDefaultPic;
     resultsPic.innerHTML = resultsDefaultPic;
@@ -117,6 +121,7 @@ function gameReset() {
 
 userChoice.forEach(userChoice => userChoice.addEventListener('click', function(){
     userChose = this.dataset.choice;
+    
 
    if(userChose === 'egg'){userPic.innerHTML = egg;}
    if(userChose === 'feathers'){userPic.innerHTML = feathers;}
@@ -144,5 +149,5 @@ userChoice.forEach(userChoice => userChoice.addEventListener('click', function()
 
     setTimeout(()=>{
         console.clear();
-    gameReset()},3000);
+    gameReset()},2500);
 }));
