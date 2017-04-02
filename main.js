@@ -149,5 +149,5 @@ userChoice.forEach(userChoice => userChoice.addEventListener('click', function()
 
     setTimeout(()=>{
         console.clear();
-    gameReset()},2500);
+    gameReset()},3000);
 }));
