@@ -51,7 +51,7 @@ const foxesTie = '<img src="./assets/foxtie.svg" alt="two foxes kissing"/>';
 
 
 let compare = (you, farmer) => {
-   resultsText.innerHTML = instant;;
+   resultsText.innerHTML = instant;
     if (you === farmer) {
         farmerTedText.innerHTML = tie;
         userText.innerHTML = tie;
