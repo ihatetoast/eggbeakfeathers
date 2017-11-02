@@ -1,7 +1,8 @@
 # Egg, Fox, Feathers v1 (current)
-Who: 
-What: Using a standard rock, paper, scissors script to make my own egg, fox, feathers game. 
-Why: 
+
+## Who: Me, Vanilla JS, Sass, Sketch
+## What: Using a standard rock, paper, scissors script to make my own egg, fox, feathers game. 
+## Why: 
     * The Logic:
     ** Rock, Paper, Scissors is a standard game to practice the conditional if/else-if/else using vanilla JS. 
     ** I took an old practice RPS script and changed it to ES6.
